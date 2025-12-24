@@ -1,0 +1,41 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# Web scraping
+requests
+beautifulsoup4
+lxml
+itemadapter
+playwright>=1.40.0
+beautifulsoup4
+
+# Data processing
+numpy
+pypdf
+
+# Embeddings and vector store
+sentence-transformers
+faiss-cpu
+tiktoken
+
+# LLM
+groq
+
+# LangChain & Agent
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+
+# Utilities
+python-dotenv
+
+# Development
+pytest
+httpx
+playwright>=1.40.0
