@@ -572,7 +572,7 @@ This project is for educational and evaluation purposes.
 
 ---
 
-## 📞 Support
+##  Support
 
 For questions or issues:
 1. Check the `/docs` endpoint for API documentation
@@ -582,7 +582,7 @@ For questions or issues:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Bank of Maharashtra**: Data source
 - **Groq**: Fast LLM inference
@@ -592,4 +592,3 @@ For questions or issues:
 
 ---
 
-**Built with ❤️ using RAG best practices**
