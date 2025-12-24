@@ -7,10 +7,13 @@ class LoansSpider(scrapy.Spider):
     allowed_domains = ["bankofmaharashtra.in", "bankofmaharashtra.bank.in"]
     
     start_urls = [
-        "https://bankofmaharashtra.in/home-loan",
-        "https://bankofmaharashtra.in/personal-loan",
-        "https://bankofmaharashtra.in/education-loan",
-        "https://bankofmaharashtra.in/vehicle-loan",
+        "https://bankofmaharashtra.bank.in/personal-banking/loans/home-loan",
+        "https://bankofmaharashtra.bank.in/personal-banking/loans/personal-loan",
+        "https://bankofmaharashtra.in/",
+        "https://bankofmaharashtra.bank.in/personal-banking/loans/car-loan",
+        "https://bankofmaharashtra.bank.in/personal-loan-for-businessclass-having-home-loan-with-us",
+        "https://bankofmaharashtra.bank.in/educational-loans?utm_source=chatgpt.com"
+
     ]
     
     url_to_loan_type = {
