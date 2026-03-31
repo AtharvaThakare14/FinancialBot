@@ -1,4 +1,4 @@
-# Bank of Maharashtra Loan Product Assistant
+# Bank  Loan Product Assistant
 
 A production-ready **Retrieval-Augmented Generation (RAG)** application that provides accurate, grounded answers about Bank of Maharashtra loan products using official website data and PDF documents.
 
